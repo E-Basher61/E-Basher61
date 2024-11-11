@@ -1,16 +1,18 @@
-## Hi there 👋
+# E-Basher61
 
-<!--
-**E-Basher61/E-Basher61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Greetings, humans.
 
-Here are some ideas to get you started:
+# Interests & Hobbies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Minecraft:
+	- Mod & Modpack Development
+	- Plugin Development
+	- Resource Pack Creation
+	- Server Development
+	- Mechanism & Structure Design
+	- Systematization & Automation
+	- PVP & Its Mechanics
+2. Artificial Intelligence
+3. Python Programming & Scripting
+
+# That is it. Yes, I am boring af
