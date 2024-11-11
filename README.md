@@ -12,7 +12,7 @@ Greetings, humans.
 	- Mechanism & Structure Design
 	- Systematization & Automation
 	- PVP & Its Mechanics
-2. Artificial Intelligence
-3. Python Programming & Scripting
+2. Artificial Intelligence (Learning)
+3. Python Programming & Scripting (Learning)
 
 # That is it. Yes, I am boring af
